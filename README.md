@@ -18,4 +18,4 @@ Please refer to the license in the repository.
 
 # Screenshot
 
-![image](https://user-images.githubusercontent.com/111019074/201826435-889b76a0-f3d7-4bac-b3c1-c6ea160f5b51.png)
+![image](https://user-images.githubusercontent.com/111019074/201826718-86ca9e12-0aab-4fd4-8af4-505e79c6a925.png)
