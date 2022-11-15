@@ -6,7 +6,7 @@ The repository for challenge 5 of my Web Development bootcamp. Here you will fin
 # Deployed Application
 Here is a link to the deployed application.
 
-
+https://sergluna.github.io/bootcamp-challenge-5/
 
 # Usage
 
@@ -18,5 +18,4 @@ Please refer to the license in the repository.
 
 # Screenshot
 
-![image]()
-
+![image](https://user-images.githubusercontent.com/111019074/201826435-889b76a0-f3d7-4bac-b3c1-c6ea160f5b51.png)
